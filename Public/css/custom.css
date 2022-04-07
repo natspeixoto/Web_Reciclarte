@@ -1,0 +1,8 @@
+/* a # é ID | . indica classe*/
+
+#catalogo{
+    padding-top: 20px; ?/* espacinho entre a barra de busca na página*/
+}
+.row{
+    margin-top: 20px;
+}
